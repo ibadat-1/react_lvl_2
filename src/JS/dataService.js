@@ -22,3 +22,15 @@ function getData(endpoint) {
         }
     })
 }
+
+
+// const products = [
+//     {
+//         productId: 1,
+//         productName: 'Alexa Smart Speaker',
+//         count: 14,
+//         price: '$12.99',
+//         quantity: 1,
+
+//     }
+// ]
